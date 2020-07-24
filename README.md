@@ -92,15 +92,15 @@
 
 ### Data Science Software Engineering, August 2019 – July 2020
 #### Lambda School, Remote, San Francisco, CA
-> ●	Data Engineering — Completed a deep dive into Data Engineering, working with databases, back-end API's, big data, productization, and continuous integration & > deployment.
+> ●	**Data Engineering** — Completed a deep dive into Data Engineering, working with databases, back-end API's, big data, productization, and continuous integration & > deployment.
 > 
-> ●	Software Engineering — Served as a data scientist on remote development teams via Slack, Zoom, Notion, and Trello alongside UX designers, web developers, and iOS developers to bring projects to fruition.
+> ●	**Software Engineering** — Served as a data scientist on remote development teams via Slack, Zoom, Notion, and Trello alongside UX designers, web developers, and iOS developers to bring projects to fruition.
 > 
-> ●	Machine Learning — Gained hands-on experience by engaging with machine learning and being able to understand unsupervised learning, natural language processing, & neural networks.
+> ●	**Machine Learning** — Gained hands-on experience by engaging with machine learning and being able to understand unsupervised learning, natural language processing, & neural networks.
 > 
-> ●	Statistical Analysis — Developed a solid foundation of analytical and predictive statistics, including linear algebra, linear regression, hypothesis testing, and storytelling with data.
+> ●	**Statistical Analysis** — Developed a solid foundation of analytical and predictive statistics, including linear algebra, linear regression, hypothesis testing, and storytelling with data.
 > 
-> ●	Computer Science — Learned first-hand about how various data structures (hash tables, graphs, BST’s, etc.) can optimize runtime complexity, classic algorithmic paradigms, and computer architecture.
+> ●	**Computer Science** — Learned first-hand about how various data structures (hash tables, graphs, BST’s, etc.) can optimize runtime complexity, classic algorithmic paradigms, and computer architecture.
 > 
 ### Computer Science & Mathematics, August 2011 – December 2012
 #### Georgia Southern University, Statesboro, GA
@@ -125,10 +125,10 @@
 
 ### [instaSod.com](https://instasod.com), [CustomizedChristmasLights.com](https://customizedchristmaslights.com)
 #### Small Business Owner (Self Employed), October 2015 – January 2019, 3 yrs 4 mos
-* Data Management — automation, invoicing, client management, Google Analytics
-* Professional Sales — Generated $450k+ gross sales over the course of three years
-* Designer — websites, systems, processes, graphics, digital landscapes, sales proposals
-* Lessons Learned — the experience of managing my own businesses has shaped my mindset:
+* **Data Management** — automation, invoicing, client management, Google Analytics
+* **Professional Sales** — Generated $450k+ gross sales over the course of three years
+* **Designer** — websites, systems, processes, graphics, digital landscapes, sales proposals
+* **Lessons Learned** — the experience of managing my own businesses has shaped my mindset:
  
 > * Customer/User/Client Centered Mindset
 > * Ability to Ask the Right Questions
