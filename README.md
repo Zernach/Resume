@@ -109,24 +109,20 @@
 
 ### [instaSod.com](https://instasod.com), [CustomizedChristmasLights.com](https://customizedchristmaslights.com)
 #### Small Business Owner (Self Employed), October 2015 – January 2019, 3 yrs 4 mos
-> •	Data Management — automation, invoicing, client management, Google Analytics
-> 
-> •	Professional Sales — Generated $450k+ gross sales over the course of three years
-> 
-> •	Designer — websites, systems, processes, graphics, digital landscapes, sales proposals
-> 
-> •	Lessons Learned — the experience of managing my own businesses has shaped my mindset:
+* Data Management — automation, invoicing, client management, Google Analytics
+* Professional Sales — Generated $450k+ gross sales over the course of three years
+* Designer — websites, systems, processes, graphics, digital landscapes, sales proposals
+* Lessons Learned — the experience of managing my own businesses has shaped my mindset:
  
-* Customer/User/Client Centered Mindset
-* Ability to Ask the Right Questions
-* Desire to Never Stop Learning
-* Intuition to Set Goals/Plans
-* Clarity of Communication
-* Team-Building Aptitude
-* Humility to Ask for Help
-* Results-Driven Attitude
-* Disciplined & Focused
-* Critical Thinking Skills
-* Capacity to Research
-* Task Management
-
+> * Customer/User/Client Centered Mindset
+> * Ability to Ask the Right Questions
+> * Desire to Never Stop Learning
+> * Intuition to Set Goals/Plans
+> * Clarity of Communication
+> * Team-Building Aptitude
+> * Humility to Ask for Help
+> * Results-Driven Attitude
+> * Disciplined & Focused
+> * Critical Thinking Skills
+> * Capacity to Research
+> * Task Management
