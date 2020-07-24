@@ -10,8 +10,8 @@ Remote, Jasper, Georgia, United States
 ![Alt text](https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_Github_Account.png)
 ![Alt text](https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_Official_Resume.png)
 
-————————————————————————————————————————————————————————————
-————————————————————————————————————————————————————————————
+———————————————————————————————————————————————————————
+———————————————————————————————————————————————————————
 ## TECH STACK — Quickly Learns New Tools & Techniques
 
 •	Scikit-Learn / Machine Learning Engineering
@@ -63,8 +63,8 @@ Remote, Jasper, Georgia, United States
 •	Software Development Life Cycle (SDLC)
  
  
-————————————————————————————————————————————————————————————
-————————————————————————————————————————————————————————————
+———————————————————————————————————————————————————————
+———————————————————————————————————————————————————————
 ## PORTFOLIO PROJECTS — Links to Additional Details in Project Titles
 
 ## Better Reads — A Platform for Readers to Track, Share, and Discover New Books
@@ -103,8 +103,8 @@ Remote, Jasper, Georgia, United States
 
 •	Combined data science with visual communication, moving GIF files, and graphic design
 
-————————————————————————————————————————————————————————————
-————————————————————————————————————————————————————————————
+———————————————————————————————————————————————————————
+———————————————————————————————————————————————————————
 ## EDUCATION
 
 ### Data Science Software Engineering, August 2019 – July 2020
@@ -123,16 +123,16 @@ Remote, Jasper, Georgia, United States
 #### Georgia Southern University, Statesboro, GA
 ●	Calculus I, Calculus II, Calculus III, Statistics, Data Structures, Programming Principles I, Programming Principles II, Discrete Mathematics, Ethics of Computers in Society
 
-————————————————————————————————————————————————————————————
-————————————————————————————————————————————————————————————
+———————————————————————————————————————————————————————
+———————————————————————————————————————————————————————
 ## CERTIFICATIONS
 
 •	TensorFlow Developer, July 2020
 
 •	AWS Cloud Practitioner, June 2020
 
-————————————————————————————————————————————————————————————
-————————————————————————————————————————————————————————————
+———————————————————————————————————————————————————————
+———————————————————————————————————————————————————————
 ## EXPERIENCE
 
 ### instaSod.com, CustomizedChristmasLights.com
