@@ -18,6 +18,7 @@
 *****
 # TECH STACK
 *****
+*****
 
 ### Quickly Learns New Tools & Techniques
 
@@ -50,6 +51,7 @@
 *****
 *****
 # PORTFOLIO PROJECTS
+*****
 *****
 
 ### Links to Additional Details in Project Titles
@@ -86,6 +88,7 @@
 *****
 # EDUCATION
 *****
+*****
 
 ### Data Science Software Engineering, August 2019 – July 2020
 #### Lambda School, Remote, San Francisco, CA
@@ -108,6 +111,7 @@
 *****
 # CERTIFICATIONS
 *****
+*****
 
 > •	[TensorFlow Developer](https://ryan.zernach.com/tensorflow-developer-certification-study-guide/), July 2020
 > 
@@ -116,6 +120,7 @@
 *****
 *****
 # EXPERIENCE
+*****
 *****
 
 ### [instaSod.com](https://instasod.com), [CustomizedChristmasLights.com](https://customizedchristmaslights.com)
