@@ -1,5 +1,8 @@
 ![Alt text](https://ryan.zernach.com/wp-content/uploads/2019/10/project_20190907_181208-e1583159691592.png)
 
+*****
+*****
+
 # 👤 Ryan Zernach
 # ✉️ Ryan@Zernach.com
 # 🤖 Machine Learning Engineer
@@ -11,9 +14,11 @@
 [<img src="https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_Github_Account.png" alt="alt text" width="260" height="79">](https://github.com/zernach)
 [<img src="https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_Official_Resume.png" alt="alt text" width="260" height="79">](https://ryan.zernach.com/wp-content/uploads/Ryan_Zernach_Resume_July_2020.pdf)
 
-———————————————————————————————————————————————————
-———————————————————————————————————————————————————
+*****
+*****
 # TECH STACK
+*****
+
 ### Quickly Learns New Tools & Techniques
 
 > * Scikit-Learn / Machine Learning Engineering
@@ -42,9 +47,11 @@
 > * Software Development Life Cycle (SDLC)
  
  
-———————————————————————————————————————————————————
-———————————————————————————————————————————————————
+*****
+*****
 # PORTFOLIO PROJECTS
+*****
+
 ### Links to Additional Details in Project Titles
 
 ## [Better Reads](https://ryan.zernach.com/portfolio/readrr-a-platform-to-discover-track-and-share-new-books/) — A Platform for Readers to Track, Share, and Discover New Books
@@ -75,9 +82,10 @@
 > * Data exploration, story-telling with data, and unique data visualizations
 > * Combined data science with visual communication, moving GIF files, and graphic design
 
-———————————————————————————————————————————————————
-———————————————————————————————————————————————————
+*****
+*****
 # EDUCATION
+*****
 
 ### Data Science Software Engineering, August 2019 – July 2020
 #### Lambda School, Remote, San Francisco, CA
@@ -95,17 +103,20 @@
 #### Georgia Southern University, Statesboro, GA
 > ●	Calculus I, Calculus II, Calculus III, Statistics, Data Structures, Programming Principles I, Programming Principles II, Discrete Mathematics, Ethics of Computers in Society
 > 
-———————————————————————————————————————————————————
-———————————————————————————————————————————————————
+
+*****
+*****
 # CERTIFICATIONS
+*****
 
 > •	[TensorFlow Developer](https://ryan.zernach.com/tensorflow-developer-certification-study-guide/), July 2020
 > 
 > •	[AWS Cloud Practitioner](https://ryan.zernach.com/aws-certified-cloud-practitioner-study-guide/), June 2020
 
-———————————————————————————————————————————————————
-———————————————————————————————————————————————————
+*****
+*****
 # EXPERIENCE
+*****
 
 ### [instaSod.com](https://instasod.com), [CustomizedChristmasLights.com](https://customizedchristmaslights.com)
 #### Small Business Owner (Self Employed), October 2015 – January 2019, 3 yrs 4 mos
