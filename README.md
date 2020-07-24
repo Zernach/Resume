@@ -5,10 +5,10 @@
 # Machine Learning Engineer
 Remote, Jasper, Georgia, United States
 
-![Alt text](https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_com_Button.png)
-![Alt text](https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_Linkedin_Profile.png)
-![Alt text](https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_Github_Account.png)
-![Alt text](https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_Official_Resume.png)
+<img src="https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_com_Button.png" alt="alt text" width="260" height="79">
+<img src="https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_Linkedin_Profile.png" alt="alt text" width="260" height="79">
+<img src="https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_Github_Account.png" alt="alt text" width="260" height="79">
+<img src="https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_Official_Resume.png" alt="alt text" width="260" height="79">
 
 ———————————————————————————————————————————————————————
 ———————————————————————————————————————————————————————
