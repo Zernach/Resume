@@ -50,7 +50,7 @@
  
 *****
 *****
-# PORTFOLIO PROJECTS
+# [PORTFOLIO PROJECTS](https://ryan.zernach.com/portfolio/)
 *****
 *****
 
