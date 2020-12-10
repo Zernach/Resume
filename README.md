@@ -6,8 +6,7 @@
 # 👤 Ryan Zernach
 # ✉️ Ryan@Zernach.com
 # 🤖 Machine Learning Engineer
-# 🇺🇸 Remote, Jasper, Georgia, United States
-
+# 🇺🇸 Remote, Miami Beach, Florida, United States
 
 [<img src="https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_com_Button.png" alt="alt text" width="260" height="79">](https://ryan.zernach.com)
 [<img src="https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_Linkedin_Profile.png" alt="alt text" width="260" height="79">](https://linkedin.com/in/zernach)
@@ -114,9 +113,11 @@
 *****
 *****
 
-> •	[TensorFlow Developer](https://ryan.zernach.com/tensorflow-developer-certification-study-guide/), July 2020
-> 
-> •	[AWS Cloud Practitioner](https://ryan.zernach.com/aws-certified-cloud-practitioner-study-guide/), June 2020
+DataRobot 10x Data Science AutoML, September 2020
+
+* [DataRobot 10x Data Science AutoML](https://ryan.zernach.com/data-robot-10x-data-science-academy-certification-guide/), September-October 2020
+* [TensorFlow Developer](https://ryan.zernach.com/tensorflow-developer-certification-study-guide/), July 2020 
+* [AWS Cloud Practitioner](https://ryan.zernach.com/aws-certified-cloud-practitioner-study-guide/), June 2020
 
 *****
 *****
